@@ -1,6 +1,7 @@
 ﻿# lougeh-supermarket
 
 Lou Geh Supermarket - Assessment
+    ![setup2-1](https://github.com/jerwinjames/lougeh-supermarket/blob/main/setup-guide/setup2-1.png)
 
 ## Dependencies
   - Download and install XAMPP.
@@ -10,7 +11,6 @@ Lou Geh Supermarket - Assessment
 
 ## Setup Guide
   1. Download the project as ZIP file and extract. Rename the folder by removing the '-main' and move it to 'your_xampp_directory/xampp/htdocs'.
-     ![setup2-1](https://github.com/jerwinjames/lougeh-supermarket/blob/main/setup-guide/setup2-1.png)
      ![setup2-2](https://github.com/jerwinjames/lougeh-supermarket/blob/main/setup-guide/setup2-2.png)
   2. Open XAMPP and start Apache and MySQL.
      ![setup2-3](https://github.com/jerwinjames/lougeh-supermarket/blob/main/setup-guide/setup2-3.png)
@@ -22,6 +22,7 @@ Lou Geh Supermarket - Assessment
      ![setup2-6](https://github.com/jerwinjames/lougeh-supermarket/blob/main/setup-guide/setup2-6.png)
      ![setup2-6-1](https://github.com/jerwinjames/lougeh-supermarket/blob/main/setup-guide/setup2-6-1.png)
   6. Updated database should look like this.
+  
      ![setup2-7](https://github.com/jerwinjames/lougeh-supermarket/blob/main/setup-guide/setup2-7.png)
   7. Last, open a new tab and type 'localhost/lougeh-supermarket' to view the project.
      ![setup2-8](https://github.com/jerwinjames/lougeh-supermarket/blob/main/setup-guide/setup2-8.png)
