@@ -16,7 +16,7 @@ Lou Geh Supermarket - Assessment
      ![setup2-3](https://github.com/jerwinjames/lougeh-supermarket/blob/main/setup-guide/setup2-3.png)
   3. Open your browser and type 'localhost/phpmyadmin'.
      ![setup2-4](https://github.com/jerwinjames/lougeh-supermarket/blob/main/setup-guide/setup2-4.png)
-  4. Go to the Databases tab, create a new database and name it 'lougeh-supermarket'. Press Create to create a new database.
+  4. Go to the Databases tab, create a new database and name it 'lg-supermarket'. Press Create to create a new database.
      ![setup2-5](https://github.com/jerwinjames/lougeh-supermarket/blob/main/setup-guide/setup2-5.png)
   5. Go to the Import tab, click on choose file, and enter the database given at the project folder. Press Go to import the database.
      ![setup2-6](https://github.com/jerwinjames/lougeh-supermarket/blob/main/setup-guide/setup2-6.png)
