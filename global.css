@@ -1,0 +1,31 @@
+nav {
+  background: #6998ab !important;
+}
+
+.home {
+  max-height: 300px;
+  overflow: auto;
+  margin: 30px auto;
+}
+
+.brand {
+  background: #6998ab !important;
+}
+
+.custom-text {
+  color: #6998ab !important;
+}
+
+.button-text {
+  color: white !important;
+}
+
+form {
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 2em !important;
+}
+
+.material-icons {
+  font-weight: bold !important;
+}
