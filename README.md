@@ -1,8 +1,8 @@
 ﻿# lougeh-supermarket
 
 Lou Geh Supermarket - Assessment
-
-    ![setup2-1](https://github.com/jerwinjames/lougeh-supermarket/blob/main/setup-guide/setup2-1.png)
+    
+   ![setup2-1](https://github.com/jerwinjames/lougeh-supermarket/blob/main/setup-guide/setup2-1.png)
 
 ## Dependencies
 
